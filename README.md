@@ -44,6 +44,12 @@ Click on images to download !
 
 
 <details>
+<summary>Quaver Skins I made</summary>
+## [Quaver - Steam Workshop]([https://etternaonline.com/customisation/toasties](https://steamcommunity.com/id/PatouZ/myworkshopfiles/?appid=980610&sort=score&browsefilter=myfiles&view=imagewall))
+</details>
+
+
+<details>
 <summary>Etterna Noteskins</summary>
 
 ## Toasty : [animated_burgir](https://etternaonline.com/customisation/toasties) (on the website)

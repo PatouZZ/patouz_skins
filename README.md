@@ -1,5 +1,6 @@
 # PatouZ_skins
-Click on images to download !
+### Click on images to download !  
+#### Skins with "16_9" are basically made for 16:9 screen resolution, 16:10 will also be available (which is the one I use)
 
 <details>
 <summary>osu! skins (Circles)</summary>

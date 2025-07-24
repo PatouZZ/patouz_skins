@@ -20,7 +20,7 @@
 ## PatouZ 20-02
 [<img src="https://i.imgur.com/E1VBg1Z.png" width="800">](https://drive.google.com/file/d/19AZXp7nkTu8rfw8SFhvd1PTQMD4mkhN_/view?usp=sharing)
 ## PatouZ 19-12
-[<img src="https://i.imgur.com/8Q2xCpL.png" width="800">](https://drive.google.com/file/d/12htmepYZeeaCLFi__kFumdSNBDlVOB2r/view?usp=sharing)
+[<img src="https://i.imgur.com/MPSBqXC.png" width="800">](https://drive.google.com/file/d/12htmepYZeeaCLFi__kFumdSNBDlVOB2r/view?usp=sharing)
 ## PatouZ 19-09
 [<img src="https://i.imgur.com/gbikJxo.png" width="800">](https://drive.google.com/file/d/1mmwThdSlwLWBbDkh91BZ3qNmPVA5O0fZ/view?usp=sharing)
 ## PatouZ 19-05

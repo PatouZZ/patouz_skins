@@ -95,7 +95,7 @@ X: 576.00 / Y: 690.00 / Zoom: 1.40
 X: 23.47 / Y: -42.73 / Zoom: 0.40
 
 **Error Bar**  
-X: 576.20 / Y: 337.50 / Width : 178.75 / Height: 16.00
+X: 576.20 / Y: 322.50 / Width : 178.75 / Height: 16.00
 
 **Full progress Bar**  
 X: 577.00 / Y: 803.60 / Width: 2.60 / Height: 12.40
@@ -104,7 +104,7 @@ X: 577.00 / Y: 803.60 / Width: 2.60 / Height: 12.40
 X: 1106.40 / Y: 643.20 / Width/Height/Spacing: 1.00
 
 **Judgement**  
-X: 0.00 / Y: -32.93 / Zoom: 0.35
+X: 0.00 / Y: -37.93 / Zoom: 0.25
 
 **Lane Cover**  
 Height: 70.00
